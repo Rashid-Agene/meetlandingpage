@@ -74,6 +74,13 @@ main {
     margin-left: auto;
     margin-top:20px;
 }
+.s1{
+    color: #8FE3F9;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 26px;
+}
 .what{
     font-family: inherit;
     width: 120px;
@@ -205,7 +212,7 @@ main {
     margin-top: 17px;
 }
 footer{
-    background-image: linear-gradient(0,#4D96A9E7,#4D96A9E7),url(./desktop/image-footer.jpg);
+    background-image: linear-gradient(0,#4D96A9E7,#4D96A9E7),url(./asset/image-footer.jpg);
     height: 300px;
     width: 100%;
     background-repeat: no-repeat;
@@ -239,7 +246,6 @@ footer{
     color: #FAFAFA;
 }
 .down2{
-    font-family: inherit;
     margin-top: 116px;
     width: 180px;
     height: 50px;
@@ -251,3 +257,11 @@ footer{
     border-radius: 29px;
     border: none;
 }
+.s2{
+    color: #D9B8FF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 26px; 
+}
+
